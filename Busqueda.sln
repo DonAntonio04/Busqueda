@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda", "Busqueda\Busqueda.csproj", "{2C41D8E1-C58F-41FF-B2F1-C40F5A70345E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C41D8E1-C58F-41FF-B2F1-C40F5A70345E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C41D8E1-C58F-41FF-B2F1-C40F5A70345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C41D8E1-C58F-41FF-B2F1-C40F5A70345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C41D8E1-C58F-41FF-B2F1-C40F5A70345E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728F18CC-5570-4201-9C1C-93F3DF3954B9}
+	EndGlobalSection
+EndGlobal
